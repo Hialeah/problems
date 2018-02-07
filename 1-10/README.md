@@ -26,3 +26,12 @@ The East Coast sales division of a company generates 62 percent of total sales. 
  
 - [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/SalesPredition.cpp)
 - [ ] Answer in Java
+
+<h2 id="5">5. Sales Tax </h2>
+
+Write a program that computes the total sales tax on a $52 purchase. Assume the state sales tax is 4 percent and the county sales tax is 2 percent. Display the purchase price, state tax, county tax, and total tax amounts on the screen.
+ 
+- [ ] Answer in C++
+- [ ] Answer in Java
+
+
