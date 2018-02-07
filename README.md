@@ -1,9 +1,3 @@
-Sum of Two Numbers
-Write a program that stores the integers 62 and 99 in variables, and stores the sum of these two in a variable named total. Display the total on the screen.
-
-Sales Prediction
-The East Coast sales division of a company generates 62 percent of total sales. Based on that percentage, write a program that will predict how much the East Coast division will generate if the company has $4.6 million in sales this year. Display the result on the screen.
-
 Sales Tax
 Write a program that computes the total sales tax on a $52 purchase. Assume the state sales tax is 4 percent and the county sales tax is 2 percent. Display the purchase price, state tax, county tax, and total tax amounts on the screen.
 
