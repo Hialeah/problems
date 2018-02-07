@@ -6,8 +6,9 @@ An electronics company sells circuit boards at a 40 percent profit. Write a prog
 - [ ] Answer in Java
 
 
-<h2 id="12">12. </h2>
+<h2 id="12">12. Personal Information</h2>
 
+Write a program that displays the following information, each on a separate line: Your name Your address, with city, state, and zip code Your telephone number Your college major Use only a single cout statement to display all of this information.
 
 - [ ] Answer in C++
 - [ ] Answer in Java
