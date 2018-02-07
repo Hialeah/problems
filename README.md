@@ -1,24 +1,3 @@
-Sales Tax
-Write a program that computes the total sales tax on a $52 purchase. Assume the state sales tax is 4 percent and the county sales tax is 2 percent. Display the purchase price, state tax, county tax, and total tax amounts on the screen.
-
-Restaurant Bill
-Write a program that computes the tax and tip on a restaurant bill for a patron with a $44.50 meal charge. The tax should be 6.75 percent of the meal cost. The tip should be 15 percent of the total after adding the tax. Display the meal cost, tax amount, tip amount, and total bill on the screen.
-
-Cyborg Data Type Sizes
-You have been given a job as a programmer on a Cyborg supercomputer. In order to accomplish some calculations, you need to know how many bytes the following data types use: char, int, float, and double. You do not have any manuals, so you can’t look up this information. Write a C++ program that will determine the amount of memory used by these types and display the information on the screen.
-
-Miles per Gallon
-A car holds 16 gallons of gasoline and can travel 350 miles before refueling. Write a program that calculates the number of miles per gallon the car gets. Display the result on the screen.
-
-Distance per Tank of Gas
-A car with a 20 gallon gas tank averages 21.5 miles per gallon when driven in town and 26.8 miles per gallon when driven on the highway. Write a program that calculates and displays the distance the car can travel on one tank of gas when driven in town and when driven on the highway.
-
-Land Calculation
-In the United States, land is often measured in square feet. In many other countries it is measured in square meters. One acre of land is equivalent to 43,560 square feet. A square meter is equivalent to 10.7639 square feet. Write a program that computes and displays the number of square feet and the number of square meters ¼ in acre of land.
-Hint: Because a square meter is larger than a square foot, there will be fewer square meters in ¼ acre than there are square feet.
-
-
-
 Circuit Board Price
 An electronics company sells circuit boards at a 40 percent profit. Write a program that calculates the selling price of a circuit board that costs them $12.67 to produce. Display the result on the screen.
 
