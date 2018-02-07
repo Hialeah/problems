@@ -49,9 +49,9 @@ You have been given a job as a programmer on a Cyborg supercomputer. In order to
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="8">8. Restaurant Bill </h2>
+<h2 id="8">8. Miles per Gallon </h2>
 
-
+A car holds 16 gallons of gasoline and can travel 350 miles before refueling. Write a program that calculates the number of miles per gallon the car gets. Display the result on the screen.
  
 - [ ] Answer in C++
 - [ ] Answer in Java
