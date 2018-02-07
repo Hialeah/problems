@@ -1,9 +1,3 @@
-Miles per Gallon
-Write a program that calculates a car’s gas mileage. The program should ask the user to enter the number of gallons of gas the car can hold and the number of miles it can be driven on a full tank. It should then calculate and display the number of miles per gallon the car gets.
-
-Stadium Seating
-There are three seating categories at a stadium. For a softball game, Class A seats cost $15, Class B seats cost $12, and Class C seats cost $9. Write a program that asks how many tickets for each class of seats were sold, then displays the amount of income generated from ticket sales. Format your dollar amount in a fixed-point notation with two decimal points and make sure the decimal point is always displayed.
-
 Housing Costs
 Write a program that asks the user to enter their monthly costs for each of the following housing related expenses:
 The program should then display the total monthly cost of these expenses, and the total annual cost of these expenses.
