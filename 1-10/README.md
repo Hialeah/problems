@@ -63,7 +63,7 @@ A car holds 16 gallons of gasoline and can travel 350 miles before refueling. Wr
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="10>10. Restaurant Bill </h2>
+<h2 id="10">10. Restaurant Bill </h2>
 
 
  
