@@ -6,9 +6,9 @@ Write a program that calculates how much a student organization earns during its
 - [ ] Answer in Java
 
 
-<h2 id="2">2 Baseball Costs</h2>
+<h2 id="2">2. Baseball Costs</h2>
 
 Write a program that calculates how much a little league baseball team spent last year to purchase new baseballs. The program should prompt the user to enter the number of baseballs purchased and the cost of each baseball. It should then calculate and display the total amount spent to purchase the baseballs.
 
-- [ ] Answer in C++
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/BaseballCost.cpp)
 - [ ] Answer in Java
