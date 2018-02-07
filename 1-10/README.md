@@ -39,7 +39,7 @@ Write a program that computes the total sales tax on a $52 purchase. Assume the 
 Write a program that computes the tax and tip on a restaurant bill for a patron with a $44.50 meal charge. The tax should be 6.75 percent of the meal cost. The tip should be 15 percent of the total after adding the tax. Display the meal cost, tax amount, tip amount, and total bill on the screen.
 
  
-- [ ] Answer in C++
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/RestaurantBill.cpp)
 - [ ] Answer in Java
  
  <h2 id="7">7. Cyborg Data Type Sizes </h2>
