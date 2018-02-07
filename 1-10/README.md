@@ -12,3 +12,10 @@ Write a program that calculates how much a little league baseball team spent las
 
 - [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/BaseballCost.cpp)
 - [ ] Answer in Java
+
+<h2 id="3">3. Sum of Two Numbers</h2>
+
+Write a program that stores the integers 62 and 99 in variables, and stores the sum of these two in a variable named total. Display the total on the screen.
+ 
+- [ ] Answer in C++
+- [ ] Answer in Java
