@@ -31,7 +31,7 @@ The East Coast sales division of a company generates 62 percent of total sales. 
 
 Write a program that computes the total sales tax on a $52 purchase. Assume the state sales tax is 4 percent and the county sales tax is 2 percent. Display the purchase price, state tax, county tax, and total tax amounts on the screen.
  
-- [x] Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/SalesTax.cpp)
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/SalesTax.cpp)
 - [ ] Answer in Java
 
 
