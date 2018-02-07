@@ -22,9 +22,16 @@ Use only a single cout statement to display all of this information.
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="13">13. </h2>
+<h2 id="13">13. Triangle Pattern</h2>
 
+Write a program that displays the following pattern on the screen:
 
+```
+   *
+  ***
+ *****
+*******
+```
  
 - [ ] Answer in C++
 - [ ] Answer in Java
