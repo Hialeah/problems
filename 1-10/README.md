@@ -53,7 +53,7 @@ You have been given a job as a programmer on a Cyborg supercomputer. In order to
 
 A car holds 16 gallons of gasoline and can travel 350 miles before refueling. Write a program that calculates the number of miles per gallon the car gets. Display the result on the screen.
  
-- [ ] Answer in C++
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/MilesPerGallon.cpp)
 - [ ] Answer in Java
 
 <h2 id="9">9. Distance per Tank of Gas </h2>
