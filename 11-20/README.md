@@ -36,10 +36,20 @@ Write a program that displays the following pattern on the screen:
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="14">14. </h2>
+<h2 id="14">14. Diamond Pattern</h2>
 
+Write a program that displays the following pattern on the screen:
 
- 
+```
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+```
+
 - [ ] Answer in C++
 - [ ] Answer in Java
 
