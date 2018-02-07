@@ -1,11 +1,3 @@
-C++ Programming Exercises. Difficulty: Easy = Medium
-
-Candy Bar Sales
-Write a program that calculates how much a student organization earns during its fund raising candy sale. The program should prompt the user to enter the number of candy bars sold and the amount the organization earns for each bar sold. It should then calculate and display the total amount earned.
-
-Baseball Costs
-Using Program 1-1 as an example, write a program that calculates how much a little league baseball team spent last year to purchase new baseballs. The program should prompt the user to enter the number of baseballs purchased and the cost of each baseball. It should then calculate and display the total amount spent to purchase the baseballs.
-
 Sum of Two Numbers
 Write a program that stores the integers 62 and 99 in variables, and stores the sum of these two in a variable named total. Display the total on the screen.
 
