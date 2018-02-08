@@ -60,7 +60,7 @@ A car holds 16 gallons of gasoline and can travel 350 miles before refueling. Wr
 
 A car with a 20 gallon gas tank averages 21.5 miles per gallon when driven in town and 26.8 miles per gallon when driven on the highway. Write a program that calculates and displays the distance the car can travel on one tank of gas when driven in town and when driven on the highway.
  
-- [ ] Answer in C++
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/tree/master/1-10/DistancePerTankOfGas.cpp)
 - [ ] Answer in Java
 
 <h2 id="10">10. Land Calculation  </h2>
