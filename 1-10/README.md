@@ -72,4 +72,4 @@ Hint: Because a square meter is larger than a square foot, there will be fewer s
  
 - [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/LandCalculation.cpp)
 - [x] [Answer in Java](https://github.com/MDCblue/java/blob/master/1-10/LandCalculation.java)
-
+- [x] [Answer in Python](https://github.com/MDCblue/python/blob/master/1-10/LandCalculation.py)
