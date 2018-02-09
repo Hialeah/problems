@@ -1,3 +1,11 @@
+## Computer Science Problems
+
+- [From 1 - 10](1-10)
+- [From 11 - 20](11-20)
+- [From 21 - 30](21-30)
+- [From 31 - 40](31-40)
+- [From 41 - 50](41-50)
+
 Sum of Numbers
 Write a program that asks the user for a positive integer value. The program should use a loop to get the sum of all the integers from 1 up to the number entered. For example, if the user enters 50, the loop will find the sum of 1, 2, 3, 4, … 50.
 Input Validation: Do not accept an input that is less than 1.
