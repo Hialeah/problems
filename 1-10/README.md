@@ -4,6 +4,7 @@ Write a program that calculates how much a student organization earns during its
 
 - [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/candyBarSales.cpp)
 - [x] [Answer in Java](https://github.com/MDCblue/java/blob/master/1-10/CandyBarsSales.java)
+- [x] [Answer in Python](https://github.com/MDCblue/python/blob/master/1-10/CandyBarsSales.py)
 
 
 <h2 id="2">2. Baseball Costs</h2>
