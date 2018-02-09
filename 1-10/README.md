@@ -71,5 +71,5 @@ In the United States, land is often measured in square feet. In many other count
 Hint: Because a square meter is larger than a square foot, there will be fewer square meters in ¼ acre than there are square feet.
  
 - [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/1-10/LandCalculation.cpp)
-- [ ] Answer in Java
+- [x] [Answer in Java](https://github.com/MDCblue/java/blob/master/1-10/LandCalculation.java)
 
