@@ -23,6 +23,7 @@ Use only a single cout statement to display all of this information.
 
 - [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/11-20/PersonalInformation.cpp)
 - [x] [Answer in Java](https://github.com/MDCblue/java/blob/master/11-20/PersonalInformation.java)
+- [x] [Answer in Python](https://github.com/MDCblue/python/blob/master/11-20/PersonalInformation.py)
 
 <h2 id="13">13. Triangle Pattern</h2>
 
