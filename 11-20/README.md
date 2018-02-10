@@ -3,7 +3,7 @@
 An electronics company sells circuit boards at a 40 percent profit. Write a program that calculates the selling price of a circuit board that costs them $12.67 to produce. Display the result on the screen.
 
 - [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/11-20/CircuitBoardPrice.cpp)
-- [ ] Answer in Java
+- [x] [Answer in Java](https://github.com/MDCblue/java/blob/master/11-20/CircuitBoardPrice.java)
 
 
 <h2 id="12">12. Personal Information</h2>
