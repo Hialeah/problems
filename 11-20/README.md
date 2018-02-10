@@ -21,7 +21,7 @@ Your college major
 
 Use only a single cout statement to display all of this information.
 
-- [ ] Answer in C++
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/11-20/PersonalInformation.cpp)
 - [ ] Answer in Java
 
 <h2 id="13">13. Triangle Pattern</h2>
