@@ -5,6 +5,7 @@ An electronics company sells circuit boards at a 40 percent profit. Write a prog
 - [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/11-20/CircuitBoardPrice.cpp)
 - [x] [Answer in Java](https://github.com/MDCblue/java/blob/master/11-20/CircuitBoardPrice.java)
 - [x] [Answer in Python](https://github.com/MDCblue/python/blob/master/11-20/CircuitBoardPrice.py)
+- [x] [Answer in C](https://github.com/MDCblue/c/blob/master/11-20/CircuitBoardPrice.c)
 
 
 <h2 id="12">12. Personal Information</h2>
