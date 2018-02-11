@@ -54,7 +54,7 @@ Write a program that displays the following pattern on the screen:
    *
 ```
 
-- [ ] Answer in C++
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/11-20/DiamondPattern.cpp)
 - [ ] Answer in Java
 
 <h2 id="15">15. Pay Period Gross Pay</h2>
