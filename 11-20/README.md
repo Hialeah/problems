@@ -36,7 +36,7 @@ Write a program that displays the following pattern on the screen:
 *******
 ```
  
-- [ ] Answer in C++
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/11-20/TrianglePattern.cpp)
 - [ ] Answer in Java
 
 <h2 id="14">14. Diamond Pattern</h2>
