@@ -38,6 +38,7 @@ Write a program that displays the following pattern on the screen:
  
 - [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/11-20/TrianglePattern.cpp)
 - [ ] Answer in Java
+- [x] [Answer in C](https://github.com/MDCblue/c/blob/master/11-20/TrianglePattern.c)
 
 <h2 id="14">14. Diamond Pattern</h2>
 
