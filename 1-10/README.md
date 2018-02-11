@@ -8,7 +8,7 @@ Write a program that calculates how much a student organization earns during its
 
 ### Run it online
 
-[- Run it in C++](http://cpp.sh/55c6m)
+- [x] [Run it in C++](http://cpp.sh/55c6m)
 
 
 <h2 id="2">2. Baseball Costs</h2>
