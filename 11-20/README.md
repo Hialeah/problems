@@ -67,7 +67,9 @@ A particular employee earns $32,500 annually. Write a program that determines an
 
 <h2 id="16">16. Basketball Player Height</h2>
 
-The star player of a high school basketball team is 73 inches tall. Write a program to compute and display the height in feet / inches form. Hint: Try using the modulus and integer divide operations.
+The star player of a high school basketball team is 73 inches tall. Write a program to compute and display the height in feet / inches form. 
+
+**Hint**: Try using the modulus and integer divide operations.
 
  
 - [ ] Answer in C++
