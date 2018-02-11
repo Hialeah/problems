@@ -62,7 +62,7 @@ Write a program that displays the following pattern on the screen:
 A particular employee earns $32,500 annually. Write a program that determines and displays what the amount of his gross pay will be for each pay period if he is paid twice a month (24 pay checks per year) and if he is paid bi-weekly (26 checks per year).
 
  
-- [ ] Answer in C++
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/11-20/PayPeriodGrossPay.cpp)
 - [ ] Answer in Java
 
 <h2 id="16">16. Basketball Player Height</h2>
