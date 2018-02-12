@@ -1,3 +1,4 @@
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -44,6 +45,7 @@ void printMovies(string title, string director, int year, int time)
 		<< "Running Time: " << time << endl;
 }
 
+```
 ## Computer Science Problems
 
 - [From 1 - 10](1-10)
