@@ -109,7 +109,9 @@ The Middletown Wholesale Copper Wire Company sells spools of copper wiring for $
 - The number of ordered spools on backorder (if the number ordered is greater than what is in stock). 
 - Total selling price of the portion ready to ship (the number of spools ready to ship times $100). 
 - Total shipping and handling charges on the portion ready to ship. 
-- Total of the order ready to ship. The shipping and handling parameter in the second function should have the default argument 10.00. Input Validation: Do not accept numbers less than 1 for spools ordered. Do not accept a number less than 0 for spools in stock or for shipping and handling charges.
+- Total of the order ready to ship. The shipping and handling parameter in the second function should have the default argument 10.00. 
+
+Input Validation: Do not accept numbers less than 1 for spools ordered. Do not accept a number less than 0 for spools in stock or for shipping and handling charges.
 
 - [ ] Answer in C++
-- [ ] Answer in Jav
+- [ ] Answer in Java
