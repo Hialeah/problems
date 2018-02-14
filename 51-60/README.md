@@ -30,7 +30,7 @@ Input Validation: Do not accept negative values for either the wholesale cost of
 
 The formula for converting a temperature from Fahrenheit to Celsius is
 
-![Formulas](media/celcius.png)
+![Formulas](../media/celcius.png)
 
 where F is the Fahrenheit temperature and C is the Celsius temperature. Write a function named celsius that accepts a Fahrenheit temperature as an argument. The function should return the temperature, converted to Celsius. Demonstrate the function by calling it in a loop that displays a table of the Fahrenheit temperatures 0 through 20 and their Celsius equivalents.
 
@@ -41,6 +41,8 @@ where F is the Fahrenheit temperature and C is the Celsius temperature. Write a 
 <h2 id="55"> 55.  Falling Distance </h2>
 
 The following formula can be used to determine the distance an object falls due to gravity in a specific time period:
+
+![Falling Distance](../media/fallingDistance.png)
 
 The variables in the formula are as follows: d is the distance in meters, g is 9.8, and t is the time in seconds that the object has been falling. Write a function named fallingDistance that accepts an object’s falling time (in seconds) as an argument. The function should return the distance, in meters, that the object has fallen during that time interval. Write a program that demonstrates the function by calling it in a loop that passes the values 1 through 10 as arguments, and displays the return value.
 
