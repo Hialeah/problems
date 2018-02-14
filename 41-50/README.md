@@ -42,30 +42,32 @@ A country club, which currently charges $2500 per year for membership, has annou
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="47"> 47. Average Rainfall</h2>
+<h2 id="47"> 47. Random Number Guessing Game </h2>
 
-
-
-- [ ] Answer in C++
-- [ ] Answer in Java
-
-<h2 id="48"> 48. Minimum/Maximum</h2>
-
-
+Write a program that generates a random number between 1 and 100 and asks the user to guess what the number is. If the user’s guess is higher than the random number, the program should display "Too high. Try again." If the user’s guess is lower than the random number, the program should display "Too low. Try again." The program should use a loop that repeats until the user correctly guesses the random number. Then the program should display "Congratulations. You figured out my number."
 
 
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="49"> 49.  Roman Numeral Converter</h2>
+<h2 id="48"> 48. Random Number Guessing Game Enhancement</h2>
 
+Enhance the program that you wrote for Programming Challenge 10 so it keeps a count of the number of guesses the user makes. When the user correctly guesses the random number, the program should display the number of guesses along with the message of congratulations.
 
 
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="50"> 50. Magic Dates </h2>
+<h2 id="49"> 49.  The Greatest and Least of These </h2>
 
+Write a program with a loop that lets the user enter a series of integers, followed by _99 to signal the end of the series. After all the numbers have been entered, the program should display the largest and smallest numbers entered.
+
+- [ ] Answer in C++
+- [ ] Answer in Java
+
+<h2 id="50"> 50. Student Line Up </h2>
+
+A teacher has asked all her students to line up single file according to their first name. For example, in one class Amy will be at the front of the line and Yolanda will be at the end. Write a program that prompts the user to enter the number of students in the class, then loops to read in that many names. Once all the names have been read in it reports which student would be at the front of the line and which one would be at the end of the line. You may assume that no two students have the same name. Input Validation: Do not accept a number less than 1 or greater than 25 for the number of students.
 
 - [ ] Answer in C++
 - [ ] Answer in Java
