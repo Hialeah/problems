@@ -22,7 +22,9 @@ In a population, the birth rate is the percentage increase of the population due
 - The annual death rate 
 - The number of years to display The program should then display the starting population and the projected population at the end of each year. It should use a function that calculates and returns the projected new size of the population after a year. The formula is
 
-     N = P(1 + B)(1 - D)
+```
+N = P(1 + B)(1 - D)
+```
 
 where N is the new population size, P is the previous population size, B is the birth rate, and D is the death rate.
 
