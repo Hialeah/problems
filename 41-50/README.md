@@ -35,8 +35,9 @@ Write a program that calculates how much a person earns in a month if the salary
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="46"> 46.  Test Average</h2>
+<h2 id="46"> 46.  Membership Fees Increase</h2>
 
+A country club, which currently charges $2500 per year for membership, has announced it will increase its membership fee by 4% each year for the next six years. Write a program that uses a loop to display the projected rates for the next six years.
 
 - [ ] Answer in C++
 - [ ] Answer in Java
