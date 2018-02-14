@@ -53,26 +53,7 @@ void printMovies(string title, string director, int year, int time)
 - [From 21 - 30](21-30)
 - [From 31 - 40](31-40)
 - [From 41 - 50](41-50)
-
-
-Calories Burned
-Running on a particular treadmill you burn 3.9 calories per minute. Write a program that uses a loop to display the number of calories burned after 10, 15, 20, 25, and 30 minutes.
-
-Membership Fees Increase
-A country club, which currently charges $2500 per year for membership, has announced it will increase its membership fee by 4% each year for the next six years. Write a program that uses a loop to display the projected rates for the next six years.
-
-Random Number Guessing Game
-Write a program that generates a random number between 1 and 100 and asks the user to guess what the number is. If the user’s guess is higher than the random number, the program should display "Too high. Try again." If the user’s guess is lower than the random number, the program should display "Too low. Try again." The program should use a loop that repeats until the user correctly guesses the random number. Then the program should display "Congratulations. You figured out my number."
-
-Random Number Guessing Game Enhancement
-Enhance the program that you wrote for Programming Challenge 10 so it keeps a count of the number of guesses the user makes. When the user correctly guesses the random number, the program should display the number of guesses along with the message of congratulations.
-
-The Greatest and Least of These
-Write a program with a loop that lets the user enter a series of integers, followed by _99 to signal the end of the series. After all the numbers have been entered, the program should display the largest and smallest numbers entered.
-
-Student Line Up
-A teacher has asked all her students to line up single file according to their first name. For example, in one class Amy will be at the front of the line and Yolanda will be at the end. Write a program that prompts the user to enter the number of students in the class, then loops to read in that many names. Once all the names have been read in it reports which student would be at the front of the line and which one would be at the end of the line. You may assume that no two students have the same name.
-Input Validation: Do not accept a number less than 1 or greater than 25 for the number of students.
+- [From 51 - 60](51-60)
 
 Rate of Inflation
 The annual rate of inflation is the rate at which money loses its value. For example, if the annual rate of inflation is 3.0%, then in one year it will cost $1030 to buy the goods that could have been purchased for $1000 today. Put another way, a year from now $1000 will only buy 1/1.03 * $1000, or $970.87, worth of goods. Two years from now $1000 will only buy only 1/1.03 of $970.87, or $942.59 worth of goods. 
