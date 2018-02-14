@@ -7,8 +7,11 @@ Input validation: Do not accept an inflation rate less than 1% or greater than 1
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="52"> 52.  Speed Convertion Chart </h2>
+<h2 id="52"> 52.  Population </h2>
 
+Write a program that will predict the size of a population of organisms. The program should ask the user for the starting number of organisms, their average daily population increase (as a percentage of current population), and the number of days they will multiply. A loop should display the size of the population for each day.
+
+Input Validation: Do not accept a number less than two for the starting size of the population. Do not accept a negative number for average daily population increase. Do not accept a number less than one for the number of days they will multiply.
 
 
 - [ ] Answer in C++
