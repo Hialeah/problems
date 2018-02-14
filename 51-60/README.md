@@ -60,18 +60,26 @@ The variables in the formula are as follows: KE is the kinetic energy in joules,
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="57"> 57. Random Number Guessing Game </h2>
+<h2 id="57"> 57. Winning Division </h2>
 
+Write a program that determines which of a company’s four divisions (Northeast, Southeast, Northwest, and Southwest) had the greatest sales for a quarter. It should include the following two functions, which are called by main. 
 
-
+- double getSales() is passed the name of a division. It asks the user for a division’s quarterly sales figure, validates the input, then returns it. It should be called once for each division. 
+- void findHighest() is passed the four sales totals. It determines which is the largest and prints the name of the high grossing division, along with its sales figure. Input Validation: Do not accept dollar amounts less than $0.00.
 
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="58"> 58. Random Number Guessing Game Enhancement</h2>
+<h2 id="58"> 58. Safest Driving Area </h2>
 
+Write a program that determines which of 5 geographic regions within a major city (north, south, east, west, and central) had the fewest reported traffic accidents last year. It should have the following two functions, which are called by main. 
 
-
+- int getNumAccidents() is passed the name of a region. It asks the user for the number of traffic accidents reported in that region during the last year, validates the input, then returns it. It should be called once for each city region. 
+- void findLowest() is passed the five accident totals. It determines which is the smallest and prints the name of the region, along with its accident figure. Input Validation: Do not accept an accident number that is less than 0. Lowest Score Drop 
+- Write a program that calculates the average of a group of test scores, where the lowest score in the group is dropped. It should use the following functions: 
+- void getScore() should ask the user for a test score, store it in a reference parameter variable, and validate it. This function should be called by main once for each of the five scores to be entered. 
+- void calcAverage() should calculate and display the average of the four highest scores. This function should be called just once by main, and should be passed the five scores. 
+- int findLowest() should find and return the lowest of the five scores passed to it. It should be called by calcAverage, which uses the function to determine one of the five scores to drop. Input Validation: Do not accept test scores lower than 0 or higher than 100.
 
 - [ ] Answer in C++
 - [ ] Answer in Java
