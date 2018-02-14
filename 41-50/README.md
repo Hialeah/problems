@@ -5,8 +5,11 @@ Write a program that asks the user for a positive integer value. The program sho
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="42"> 42.  Stadium Seating </h2>
+<h2 id="42"> 42.  Speed Convertion Chart </h2>
 
+Write a program that displays a table of speeds in kilometers per hour with their values converted to miles per hour. The table should display the speeds from 60 kilometers per hour through 130 kilometers per hour, in increments of 5 kilometers per hour. (In other words, it should display 60 kph, 65 kph, 70 kph and so forth, up through 130 kph.)
+
+`MPH = KPH * 0.6214`
 
 - [ ] Answer in C++
 - [ ] Answer in Java
