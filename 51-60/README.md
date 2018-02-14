@@ -26,8 +26,13 @@ Input Validation: Do not accept negative values for either the wholesale cost of
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="54"> 54.  Pennies for Pay</h2>
+<h2 id="54"> 54.  Celsius Temperature Table </h2>
 
+The formula for converting a temperature from Fahrenheit to Celsius is
+
+![Formulas](http://www.101computing.net/wp/wp-content/uploads/fahrenheit_to_celsius_formulas.png)
+
+where F is the Fahrenheit temperature and C is the Celsius temperature. Write a function named celsius that accepts a Fahrenheit temperature as an argument. The function should return the temperature, converted to Celsius. Demonstrate the function by calling it in a loop that displays a table of the Fahrenheit temperatures 0 through 20 and their Celsius equivalents.
 
 
 - [ ] Answer in C++
