@@ -49,9 +49,13 @@ The variables in the formula are as follows: d is the distance in meters, g is 9
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="56"> 56.  Membership Fees Increase</h2>
+<h2 id="56"> 56.  Kinetic Energy</h2>
 
+In physics, an object that is in motion is said to have kinetic energy. The following formula can be used to determine a moving object’s kinetic energy:
 
+The variables in the formula are as follows: KE is the kinetic energy in joules, m is the object’s mass in kilograms, and v is the object’s velocity in meters per second. Write a function named kineticEnergy that accepts an object’s mass (in kilograms) and velocity (in meters per second) as arguments. The function should return the amount of kinetic energy that the object has. Demonstrate the function by calling it in a program that asks the user to enter values for mass and velocity.
+
+![Falling Distance](../media/kineticEnergy.png)
 
 - [ ] Answer in C++
 - [ ] Answer in Java
