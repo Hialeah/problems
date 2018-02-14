@@ -1,5 +1,7 @@
 ## Computer Science Problems
 
+[![Join the chat at https://gitter.im/MDCblue/problems](https://badges.gitter.im/MDCblue/problems.svg)](https://gitter.im/MDCblue/problems?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [From 1 - 10](1-10)
 - [From 11 - 20](11-20)
 - [From 21 - 30](21-30)
