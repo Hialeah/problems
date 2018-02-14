@@ -21,9 +21,9 @@ Assuming the level of the Earth’s oceans continues rising at about 3.1 millime
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="44"> 44.  How Much Insurance?</h2>
+<h2 id="44"> 44.  Pennies for Pay</h2>
 
-
+Write a program that calculates how much a person earns in a month if the salary is one penny the first day, two pennies the second day, four pennies the third day, and so on with the daily pay doubling each day the employee works. The program should ask the user for the number of days the employee worked during the month and should display a table showing how much the salary was for each day worked, as well as the total pay earned for the month. The output should be displayed in dollars with two decimal points, not in pennies. Input Validation: Do not accept a number less than 1 or more than 31 for the number of days worked.
 
 - [ ] Answer in C++
 - [ ] Answer in Java
