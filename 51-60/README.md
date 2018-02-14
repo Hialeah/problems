@@ -84,9 +84,16 @@ Write a program that determines which of 5 geographic regions within a major cit
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="59"> 59.  The Greatest and Least of These </h2>
+<h2 id="59"> 59.  Star Search </h2>
 
+A particular talent competition has 5 judges, each of whom awards a score between 0 and 10 to each performer. Fractional scores, such as 8.3, are allowed. A performer’s final score is determined by dropping the highest and lowest score received, then averaging the 3 remaining scores. 
 
+Write a program that uses these rules to calculate and display a contestant’s score. It should include the following functions: 
+
+- void getJudgeData() should ask the user for a judge’s score, store it in a reference parameter variable, and validate it. This function should be called by main once for each of the 5 judges.
+- double calcScore() should calculate and return the average of the 3 scores that remain after dropping the highest and lowest scores the performer received. This function should be called just once by main, and should be passed the 5 scores. The last two functions, described below, should be called by calcScore, which uses the returned information to determine which of the scores to drop. 
+- int findLowest() should find and return the lowest of the 5 scores passed to it. 
+- int findHighest() should find and return the highest of the 5 scores passed to it. Input Validation: Do not accept judge scores lower than 0 or higher than 10.
 
 - [ ] Answer in C++
 - [ ] Answer in Java
