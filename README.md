@@ -56,40 +56,6 @@ void printMovies(string title, string director, int year, int time)
 - [From 51 - 60](51-60)
 
 
-Kinetic Energy
-In physics, an object that is in motion is said to have kinetic energy. The following formula can be used to determine a moving object’s kinetic energy:
-
-
-
-The variables in the formula are as follows: KE is the kinetic energy in joules, m is the object’s mass in kilograms, and v is the object’s velocity in meters per second. Write a function named kineticEnergy that accepts an object’s mass (in kilograms) and velocity (in meters per second) as arguments. The function should return the amount of kinetic energy that the object has. Demonstrate the function by calling it in a program that asks the user to enter values for mass and velocity.
-
-Winning Division
-Write a program that determines which of a company’s four divisions (Northeast, Southeast, Northwest, and Southwest) had the greatest sales for a quarter. It should include the following two functions, which are called by main.
-• double getSales() is passed the name of a division. It asks the user for a division’s quarterly sales figure, validates the input, then returns it. It should be called once for each division.
-• void findHighest() is passed the four sales totals. It determines which is the largest and prints the name of the high grossing division, along with its sales figure.
-Input Validation: Do not accept dollar amounts less than $0.00.
-
-Safest Driving Area
-Write a program that determines which of 5 geographic regions within a major city (north, south, east, west, and central) had the fewest reported traffic accidents last year. It should have the following two functions, which are called by main.
-• int getNumAccidents() is passed the name of a region. It asks the user for the number of traffic accidents reported in that region during the last year, validates the input, then returns it. It should be called once for each city region.
-• void findLowest() is passed the five accident totals. It determines which is the smallest and prints the name of the region, along with its accident figure.
-Input Validation: Do not accept an accident number that is less than 0.
-Lowest Score Drop
-• Write a program that calculates the average of a group of test scores, where the lowest score in the group is dropped. It should use the following functions:
-• void getScore() should ask the user for a test score, store it in a reference parameter variable, and validate it. This function should be called by main once for each of the five scores to be entered.
-• void calcAverage() should calculate and display the average of the four highest scores. This function should be called just once by main, and should be passed the five scores.
-• int findLowest() should find and return the lowest of the five scores passed to it. It should be called by calcAverage, which uses the function to determine one of the five scores to drop.
-Input Validation: Do not accept test scores lower than 0 or higher than 100.
-
-Star Search
-A particular talent competition has 5 judges, each of whom awards a score between 0 and 10 to each performer. Fractional scores, such as 8.3, are allowed. A performer’s final score is determined by dropping the highest and lowest score received, then averaging the 3 remaining scores. Write a program that uses these rules to calculate and display a contestant’s score. It should include the following functions:
-• void getJudgeData() should ask the user for a judge’s score, store it in a reference parameter variable, and validate it. This function should be called by main once for each of the 5 judges.
-• double calcScore() should calculate and return the average of the 3 scores that remain after dropping the highest and lowest scores the performer received. This function should be called just once by main, and should be passed the 5 scores.
-The last two functions, described below, should be called by calcScore, which uses the returned information to determine which of the scores to drop.
-• int findLowest() should find and return the lowest of the 5 scores passed to it.
-• int findHighest() should find and return the highest of the 5 scores passed to it.
-Input Validation: Do not accept judge scores lower than 0 or higher than 10.
-
 Order Status
 The Middletown Wholesale Copper Wire Company sells spools of copper wiring for $100 each and ships them for $10 apiece. Write a program that displays the status of an order. It should use two functions. The first function asks for the following data and stores the input values in reference parameters.
 • The number of spools ordered.
