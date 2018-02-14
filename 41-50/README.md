@@ -28,10 +28,9 @@ Write a program that calculates how much a person earns in a month if the salary
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="45"> 45.  Batting Average </h2>
+<h2 id="45"> 45.  Calories Burned</h2>
 
-
-
+ Running on a particular treadmill you burn 3.9 calories per minute. Write a program that uses a loop to display the number of calories burned after 10, 15, 20, 25, and 30 minutes.
 
 - [ ] Answer in C++
 - [ ] Answer in Java
