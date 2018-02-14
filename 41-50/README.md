@@ -14,8 +14,9 @@ Write a program that displays a table of speeds in kilometers per hour with thei
 - [ ] Answer in C++
 - [ ] Answer in Java
 
-<h2 id="43"> 43. Housing Costs  </h2>
+<h2 id="43"> 43. Ocean Levels  </h2>
 
+Assuming the level of the Earth’s oceans continues rising at about 3.1 millimeters per year, write a program that displays a table showing the total number of millimeters the oceans will have risen each year for the next 25 years.
 
 - [ ] Answer in C++
 - [ ] Answer in Java
