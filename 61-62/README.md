@@ -30,5 +30,5 @@ where N is the new population size, P is the previous population size, B is the 
 
 Input Validation: Do not accept numbers less than 2 for the starting size. Do not accept negative numbers for birth rate or death rate. Do not accept numbers less than 1 for the number of years.
 
-- [ ] Answer in C++
+- [x] [Answer in C++](https://github.com/MDCblue/cpp/blob/master/61-62/population.cpp)
 - [ ] Answer in Java
