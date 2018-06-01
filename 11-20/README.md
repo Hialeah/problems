@@ -78,6 +78,11 @@ The star player of a high school basketball team is 73 inches tall. Write a prog
  
 - [ ] Answer in C++
 - [ ] Answer in Java
+- [ ] [Answer in Python](https://github.com/MDCblue/python/blob/master/11-20/basketball_player.py)
+
+Run it
+
+- [Python](https://repl.it/@19cah/basketballplayerpy)
 
 <h2 id="17">17. Stock Loss</h2>
 
