@@ -95,6 +95,11 @@ Kathryn bought 600 shares of stock at a price of $21.77 per share. A year later 
  
 - [ ] Answer in C++
 - [ ] Answer in Java
+- [x] [Answer in Python](https://github.com/MDCblue/python/blob/master/11-20/stock_loss.py)
+
+Run it
+
+- [Python](https://repl.it/@19cah/stocklosspy)
 
 <h2 id="18">18. Energy Drink Consumption</h2>
 
