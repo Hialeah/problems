@@ -110,6 +110,12 @@ A soft drink company recently surveyed 12,467 of its customers and found that ap
  
 - [ ] Answer in C++
 - [ ] Answer in Java
+- [x] [Answer in Python](https://github.com/MDCblue/python/blob/master/11-20/energy_drink_consuption.py)
+
+Run it
+
+- [Python](https://repl.it/@19cah/energydrinkconsuptionpy)
+
 
 <h2 id="19">19. Past Ocean Levels</h2>
 
